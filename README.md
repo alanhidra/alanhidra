@@ -20,6 +20,8 @@
 <a href="https://www.w3.org/html"><img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" width="40"></a>
 <a href="https://www.java.com"><img src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" width="40"></a>
 <a href="https://www.php.net"><img src="https://i.imgur.com/yhscI3J.png" width="40"></a>
+<a href="https://www.mysql.com"><img src="https://i.imgur.com/zgCnHOr.png" width="40"></a>
+<a href="https://sass-lang.com"><img src="https://i.imgur.com/PpgUdTQ.png" width="40"></a>
 
 <!--
 **alanhidra/alanhidra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
