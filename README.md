@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on IPMMI
 - 🌱 I’m currently learning VueJS
 - 💬 Ask me about CSS, JS, MySql, PHP
-- 📫 How to reach me alanhidra@gmail.com
+- 📫 How to reach me alannascimentogracas@gmail.com
 
 <b>Connect with me:</b><br>
 <a href="https://www.facebook.com/alanhidra"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40"></a>
