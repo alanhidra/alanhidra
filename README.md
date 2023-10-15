@@ -7,7 +7,7 @@
 
 <b>Connect with me:</b><br>
 <a href="https://www.facebook.com/alanhidra"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40"></a>
-<a href="https://www.instagram.com/alanhidra"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"></a>
+<a href="https://www.instagram.com/alan.gracas"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"></a>
 <a href="https://discord.com/#4065"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" width="40"></a>
 <a href="https://medium.com/@alanhidra"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png" width="40"></a>
 
